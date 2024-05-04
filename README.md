@@ -1,4 +1,4 @@
-# My-First-program
+# apnacollage-demo
 This is my first Git repository.
 <br>
 Author - Abrar Hussain.
